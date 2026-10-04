@@ -1,35 +1,32 @@
 {
-  "version": "v0.1.0.303",
+  "version": "v0.1.0.305",
   "date": "2026-10-04",
   "changes": [
-    "打开常见图片与 GIF、WebP、APNG 动图，直接浏览文件夹和压缩包里的图片。",
-    "使用无边框窗口看图，滚轮翻页、自由缩放，支持全屏与漫画分页、并页。",
-    "查看 PSD、SVG 和相机 RAW 预览，放大超大图片时继续查看局部细节。",
-    "按住 Tab 查看图片信息，使用取色放大镜、颜色通道预览和剪贴板复制粘贴。"
+    "提供中英日安装包，安装后可从开始菜单启动，也能选择创建桌面快捷方式。",
+    "在右键菜单手动检查更新，查看新版本和更新内容，确认后更新安装版或单文件版。"
   ],
-  "asset": {
-    "url": "/releases/v0.1.0.303/imgview.exe",
-    "size": 10957312,
-    "sha256": "a0b92d92843a54281f3842a313f2323f3105e4b8393f08cdaf92acc11a5ac03f"
-  },
   "changesI18n": {
-    "ja": [
-      "一般的な画像や GIF・WebP・APNG アニメーションを開き、フォルダーや圧縮ファイル内の画像を直接閲覧。",
-      "枠のないウィンドウで閲覧。ホイールで画像切り替え、自由なズーム、全画面表示、漫画の分割・見開き表示に対応。",
-      "PSD・SVG・カメラ RAW をプレビュー。大きな画像でも拡大して細部を確認。",
-      "Tab を押して画像情報を表示。スポイト、カラーチャンネルの確認、クリップボードへのコピーと貼り付けに対応。"
+    "zh-CN": [
+      "提供中英日安装包，安装后可从开始菜单启动，也能选择创建桌面快捷方式。",
+      "在右键菜单手动检查更新，查看新版本和更新内容，确认后更新安装版或单文件版。"
     ],
     "en": [
-      "Open common images and GIF, WebP and APNG animations, and browse folders and archives directly.",
-      "View images in a borderless window with wheel navigation, zoom, fullscreen and manga page layouts.",
-      "Preview PSD, SVG and camera RAW files, and explore local details in very large images.",
-      "Hold Tab for image information, use the color picker and channel previews, and copy or paste through the clipboard."
+      "Added a Chinese, English and Japanese installer with Start menu access and an optional desktop shortcut.",
+      "Manually check for updates from the context menu, review the new version and changes, then confirm to update the installed or portable version."
     ],
-    "zh-CN": [
-      "打开常见图片与 GIF、WebP、APNG 动图，直接浏览文件夹和压缩包里的图片。",
-      "使用无边框窗口看图，滚轮翻页、自由缩放，支持全屏与漫画分页、并页。",
-      "查看 PSD、SVG 和相机 RAW 预览，放大超大图片时继续查看局部细节。",
-      "按住 Tab 查看图片信息，使用取色放大镜、颜色通道预览和剪贴板复制粘贴。"
+    "ja": [
+      "中国語・英語・日本語のインストーラーを追加。スタートメニューから起動でき、デスクトップのショートカットも選択可能。",
+      "右クリックメニューから更新を手動確認。バージョンと更新内容を確認してから、インストール版または単体版を更新。"
     ]
+  },
+  "asset": {
+    "url": "/releases/v0.1.0.305/imgview.exe",
+    "size": 11021824,
+    "sha256": "fa032ae4809a84bf663fb150a401529bba6bfad8429f1213e01c42c9045d7158"
+  },
+  "installer": {
+    "url": "/releases/v0.1.0.305/imgview-setup-v0.1.0.305.exe",
+    "size": 4936785,
+    "sha256": "e673e3b2b849f5d04ffbec21906c065355c3536a2718bf591d10a83634cec72a"
   }
 }

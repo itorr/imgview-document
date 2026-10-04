@@ -231,6 +231,11 @@ p {
   gap: 24px;
   flex-wrap: wrap;
 }
+.site-footer > nav {
+  margin-left: auto;
+  align-items: center;
+  justify-content: flex-end;
+}
 .site-footer small {
   font-size: 12px;
 }
@@ -410,7 +415,7 @@ li + li {
 .language-menu nav {
   position: absolute;
   right: 0;
-  top: 100%;
+  bottom: 100%;
   z-index: 10;
   min-width: 140px;
   display: flex;

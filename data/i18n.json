@@ -36,7 +36,8 @@
     "historyIntro": "从最初开始，记录每一次看图体验的改进。",
     "early": "早期更新",
     "releases": "正式版本",
-    "viewRelease": "查看此版本"
+    "viewRelease": "查看此版本",
+    "getWindows": "获取 Windows 版"
   },
   "en": {
     "language": "English",
@@ -75,7 +76,8 @@
     "historyIntro": "Image viewing improvements, from the beginning.",
     "early": "Early development",
     "releases": "Releases",
-    "viewRelease": "View release"
+    "viewRelease": "View release",
+    "getWindows": "Get Windows version"
   },
   "ja": {
     "language": "日本語",
@@ -114,6 +116,7 @@
     "historyIntro": "最初からの、画像表示の改善をまとめています。",
     "early": "初期の更新",
     "releases": "正式リリース",
-    "viewRelease": "このバージョンを見る"
+    "viewRelease": "このバージョンを見る",
+    "getWindows": "Windows 版を入手"
   }
 }

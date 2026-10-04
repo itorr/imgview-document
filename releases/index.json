@@ -1,6 +1,22 @@
 {
   "schema": 1,
-  "latest": null,
-  "mirror": null,
-  "releases": []
+  "latest": "v0.1.0.303",
+  "mirror": "https://pan.quark.cn/s/ce0430b2604a",
+  "releases": [
+    {
+      "version": "v0.1.0.303",
+      "date": "2026-10-04",
+      "changes": [
+        "打开常见图片与 GIF、WebP、APNG 动图，直接浏览文件夹和压缩包里的图片。",
+        "使用无边框窗口看图，滚轮翻页、自由缩放，支持全屏与漫画分页、并页。",
+        "查看 PSD、SVG 和相机 RAW 预览，放大超大图片时继续查看局部细节。",
+        "按住 Tab 查看图片信息，使用取色放大镜、颜色通道预览和剪贴板复制粘贴。"
+      ],
+      "asset": {
+        "url": "/releases/v0.1.0.303/imgview.exe",
+        "size": 10957312,
+        "sha256": "a0b92d92843a54281f3842a313f2323f3105e4b8393f08cdaf92acc11a5ac03f"
+      }
+    }
+  ]
 }

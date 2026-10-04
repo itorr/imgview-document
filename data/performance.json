@@ -1,8 +1,19 @@
 {
-  "date": "2026-09-13",
-  "coldMs": 216.7796666667,
-  "residentMs": 145.816,
+  "date": "2026-10-04",
+  "version": "v0.1.0.305",
+  "coldMs": 253.867,
+  "residentMs": 175.566,
   "iterations": 3,
-  "image": "320 × 180 JPEG",
-  "metric": "first composited image frame"
+  "image": "1200 × 800 JPEG",
+  "metric": "first composited image frame",
+  "coldSamplesMs": [
+    276.212,
+    252.609,
+    232.78
+  ],
+  "residentSamplesMs": [
+    164.248,
+    167.527,
+    194.923
+  ]
 }

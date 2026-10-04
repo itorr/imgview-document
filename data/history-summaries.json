@@ -1,0 +1,125 @@
+{
+  "schema": 1,
+  "days": [
+    {
+      "date": "2026-09-11",
+      "items": {
+        "zh-CN": [
+          "推出轻量原生看图窗口，支持多窗口、常驻打开与设置记忆。",
+          "加入无边框全屏、自由缩放、预载和滚轮翻图。",
+          "支持拖放打开、图片关联、目录排序、背景选择及中英文界面。"
+        ],
+        "en": [
+          "Introduced a lightweight native viewer with multiple windows, resident opening and saved preferences.",
+          "Added borderless fullscreen, zooming, preloading and wheel navigation.",
+          "Added drag-and-drop, file associations, sorting, background options and Chinese/English UI."
+        ],
+        "ja": [
+          "軽量なネイティブビューアを公開。複数ウィンドウ、常駐起動、設定の保存に対応。",
+          "枠なし全画面、拡大縮小、先読み、ホイールでの画像切り替えを追加。",
+          "ドラッグ操作、ファイル関連付け、並び替え、背景設定、中国語・英語表示に対応。"
+        ]
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "items": {
+        "zh-CN": [
+          "加入 GIF、WebP、APNG 动图播放与暂停，以及 PSD、SVG、RAW、超大 TIFF 和 PSB 预览。",
+          "直接浏览 ZIP、CBZ 和 TAR 系列压缩包，文件名按自然顺序排列。",
+          "加入长图滚动阅读、旋转翻转、图片信息、RGB 与 Alpha 通道预览。",
+          "支持带透明度的图片复制粘贴，改善连续翻图和大图缩放体验。",
+          "修复透明窗口黑边、中文输入法快捷键拦截及部分图片打开崩溃。"
+        ],
+        "en": [
+          "Added GIF, WebP and APNG playback/pause, plus PSD, SVG, RAW, large TIFF and PSB previews.",
+          "Added direct browsing of ZIP, CBZ and TAR archives with natural filename sorting.",
+          "Added long-image scrolling, rotation, flipping, image details and RGB/alpha previews.",
+          "Added transparent clipboard images and improved rapid navigation and large-image zooming.",
+          "Fixed dark edges on transparent windows, IME shortcut interception and some image-opening crashes."
+        ],
+        "ja": [
+          "GIF・WebP・APNG の再生と一時停止、PSD・SVG・RAW・大型 TIFF・PSB のプレビューに対応。",
+          "ZIP・CBZ・TAR 内の画像を直接表示し、自然順で並び替え。",
+          "長い画像のスクロール、回転・反転、画像情報、RGB・アルファ表示を追加。",
+          "透明画像のコピーと貼り付け、連続切り替えと大型画像の拡大を改善。",
+          "透明ウィンドウの黒い縁、IME によるショートカット遮断、一部画像のクラッシュを修正。"
+        ]
+      }
+    },
+    {
+      "date": "2026-09-13",
+      "items": {
+        "zh-CN": [
+          "加入漫画分页、双页并排和结构化图片信息，支持不匹配页面与长图的连续阅读。",
+          "支持加密 ZIP、7Z、RAR 图片包和 Safari WebArchive；加入另存图片与更多剪贴板格式。",
+          "加入取色放大镜、CMYK 四色与整体预览，按图片内嵌颜色配置改善颜色显示。",
+          "扩展 HEIC、HEIF、HIF 系统解码及基础 DNG 预览，完善 PSD、PSB 与高位深 TIFF。",
+          "放大超大图片时显示局部细节，反复平移更快；改善动图播放节奏与多窗口看图。",
+          "完善日文界面、鼠标锚点缩放、窗口尺寸与触摸板操作，减少缩放闪烁。"
+        ],
+        "en": [
+          "Added comic page splitting, paired pages and structured image details, with continuous reading for mismatched and tall pages.",
+          "Added encrypted ZIP, 7Z, RAR and Safari WebArchive browsing, Save As and more clipboard formats.",
+          "Added a pixel magnifier, CMYK plate/composite views and embedded color-profile support.",
+          "Added system HEIC/HEIF/HIF decoding and basic DNG previews; improved PSD, PSB and high-depth TIFF.",
+          "Added visible details when zooming huge images, faster repeated panning and steadier animation playback.",
+          "Improved Japanese UI, pointer-anchored zoom, window sizing and touchpad behavior; reduced zoom flicker."
+        ],
+        "ja": [
+          "漫画の分割・見開き、構造化された画像情報を追加。異なるページ比率や長い画像も続けて閲覧。",
+          "暗号化 ZIP・7Z・RAR・Safari WebArchive、名前を付けて保存、追加のクリップボード形式に対応。",
+          "ピクセル拡大鏡、CMYK 分版と全体表示、埋め込みカラープロファイルに対応。",
+          "HEIC・HEIF・HIF のシステムデコードと基本 DNG を追加。PSD・PSB・高ビット TIFF を改善。",
+          "巨大画像の拡大時に局所の細部を表示。繰り返しの移動とアニメーションを改善。",
+          "日本語 UI、マウス位置中心の拡大縮小、サイズ変更、タッチパッド操作を改善し、ちらつきを軽減。"
+        ]
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "items": {
+        "zh-CN": [
+          "改善没有内嵌颜色配置的 YCCK 图片颜色。",
+          "减少无边框窗口缩放时的闪烁与空帧。"
+        ],
+        "en": [
+          "Improved colors in YCCK images without embedded color profiles.",
+          "Reduced flicker and blank frames while resizing borderless windows."
+        ],
+        "ja": [
+          "カラープロファイルのない YCCK 画像の色を改善。",
+          "枠なしウィンドウのサイズ変更時のちらつきと空白フレームを軽減。"
+        ]
+      }
+    },
+    {
+      "date": "2026-09-27",
+      "items": {
+        "zh-CN": [
+          "允许按原尺寸打开的小图继续缩小。"
+        ],
+        "en": [
+          "Allowed images opened at original size to be zoomed out further."
+        ],
+        "ja": [
+          "原寸で開いた小さな画像をさらに縮小できるよう改善。"
+        ]
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "items": {
+        "zh-CN": [
+          "完善 JFIF 图片的打开、浏览与文件关联支持。"
+        ],
+        "en": [
+          "Added complete JFIF opening, browsing and file-association support."
+        ],
+        "ja": [
+          "JFIF 画像の表示、閲覧、ファイル関連付けに完全対応。"
+        ]
+      }
+    }
+  ]
+}

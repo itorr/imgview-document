@@ -11,5 +11,25 @@
     "url": "/releases/v0.1.0.303/imgview.exe",
     "size": 10957312,
     "sha256": "a0b92d92843a54281f3842a313f2323f3105e4b8393f08cdaf92acc11a5ac03f"
+  },
+  "changesI18n": {
+    "ja": [
+      "一般的な画像や GIF・WebP・APNG アニメーションを開き、フォルダーや圧縮ファイル内の画像を直接閲覧。",
+      "枠のないウィンドウで閲覧。ホイールで画像切り替え、自由なズーム、全画面表示、漫画の分割・見開き表示に対応。",
+      "PSD・SVG・カメラ RAW をプレビュー。大きな画像でも拡大して細部を確認。",
+      "Tab を押して画像情報を表示。スポイト、カラーチャンネルの確認、クリップボードへのコピーと貼り付けに対応。"
+    ],
+    "en": [
+      "Open common images and GIF, WebP and APNG animations, and browse folders and archives directly.",
+      "View images in a borderless window with wheel navigation, zoom, fullscreen and manga page layouts.",
+      "Preview PSD, SVG and camera RAW files, and explore local details in very large images.",
+      "Hold Tab for image information, use the color picker and channel previews, and copy or paste through the clipboard."
+    ],
+    "zh-CN": [
+      "打开常见图片与 GIF、WebP、APNG 动图，直接浏览文件夹和压缩包里的图片。",
+      "使用无边框窗口看图，滚轮翻页、自由缩放，支持全屏与漫画分页、并页。",
+      "查看 PSD、SVG 和相机 RAW 预览，放大超大图片时继续查看局部细节。",
+      "按住 Tab 查看图片信息，使用取色放大镜、颜色通道预览和剪贴板复制粘贴。"
+    ]
   }
 }

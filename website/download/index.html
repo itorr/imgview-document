@@ -1,9 +1,21 @@
 <!doctype html>
-<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="下载图片看看 Windows 单文件版，无需安装。"><title>下载 - 图片看看 IMGView</title><meta name="theme-color" content="#ffffff"><link rel="canonical" href="https://imgview.magiconch.com/download/"><link rel="icon" href="/assets/logo.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/site.css"></head>
-<body><!--HEADER--><main id="main" class="download-page"><div class="wrap reading">
-  <div class="download-intro"><h1>图片看看，<br>下载就能用。</h1><p>Windows 10 / 11 · 64 位 · 单文件版</p></div>
-  {{DOWNLOAD_LINKS}}
-  <p class="download-prep">无需安装。将图片拖到程序上，或在右键菜单中设置图片关联。</p>
-  {{LATEST_CHANGES}}
-  <p class="text-link"><a href="https://github.com/itorr/imgview-document/releases">查看历史版本 ↗</a></p>
-</div></main><!--FOOTER--></body></html>
+<html lang="{{LANG}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{DESCRIPTION}}">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="canonical" href="{{CANONICAL}}">
+  {{ALTERNATES}}
+  <link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/site.css">
+  <title>{{TITLE}}</title>
+</head>
+<body>
+  <!--HEADER-->
+  <main id="main">
+    <div class="download-page"><div class="wrap reading"><div class="download-intro"><h1>{{DOWNLOAD_HEADING}}</h1><p>{{DOWNLOAD_DESCRIPTION}}</p></div>{{DOWNLOAD_LINKS}}<p class="download-prep">{{PREP}}</p></div></div>
+  </main>
+  <!--FOOTER-->
+</body>
+</html>
